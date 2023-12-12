@@ -1,0 +1,28 @@
+
+Privacy Policy for Where's the Sun
+
+Last Updated: December 8, 2023
+
+Welcome to Where's the Sun! We value your privacy and aim to clearly explain how we collect, use, and protect your information when you use our application.
+
+Collected Information
+1.1 Location Information
+To provide you with accurate weather information, we collect your approximate or exact location via expo-location when you use our application. This information is solely used to deliver localized weather data and is not stored on our servers.
+1.2 Saved Search Locations
+We allow users to save weather information for specific locations through the use of async storage. This stored information does not include the user's exact location but only the specific location the user chose to save.
+
+Use of Information
+The collected information is exclusively used to enhance and customize your experience with Where's the Sun. We do not share your location information with third parties or use it for purposes other than providing weather data.
+
+Data Protection and Security
+We take appropriate technical and organizational measures to ensure that your information is protected against unauthorized access or processing.
+
+Changes to the Privacy Policy
+We may update our privacy policy from time to time. Any changes will be communicated through the application or on our website.
+
+Contact
+If you have questions or comments about our privacy policy, please contact us at [contact address].
+
+By using Where's the Sun, you consent to our privacy policy and the use of your information as described above.
+
+Thank you for using Where's the Sun!
