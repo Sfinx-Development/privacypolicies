@@ -1,0 +1,39 @@
+
+Privacy Policy for Test Your App
+
+Last Updated: December 26, 2023
+
+Welcome to Test Your App! We highly value your privacy and are committed to being transparent about how we collect, use, and safeguard your information while using our application.
+
+Collected Information
+
+1.1 User Registration Information
+Upon becoming a user, Test Your App collects personal information including email, password, and username.Additionally, we collect information about the user's operating system to ensure proper matching of testers with the respective apps. 
+This data helps us optimize the testing experience by aligning testers who are using compatible operating systems with the apps seeking evaluation.
+
+1.2 App Test Information
+When users upload information about the apps they wish to have tested, Test Your App stores details related to the app. This information is confined to details about the app itself and is not shared with third parties.
+
+Use of Information
+
+The information we collect is solely used to enhance and personalize the user experience within Test Your App. We do not share any personal user information or app details with third parties. The collected data helps us to facilitate app testing and improve our services.
+
+Data Protection and Security
+
+We implement robust technical and organizational measures to protect your information from unauthorized access or processing. All user data, including personal details and app information, is securely stored in our Firestore database.
+
+User Control
+
+Users have the option to delete their accounts, which results in the complete removal of all associated information from our database.
+
+Changes to the Privacy Policy
+
+Our privacy policy may be updated periodically. Users will be informed of any changes either within the app or on our official website.
+
+Contact
+
+If you have any questions or concerns regarding our privacy policy, please reach out to us at sfinxdevelopment@gmail.com.
+
+By using Test Your App, you are consenting to the terms outlined in this privacy policy and the use of your information as described above.
+
+Thank you for choosing Test Your App!
